@@ -1,4 +1,4 @@
-# React + Vite
+# React + TailwindCSS
 
 This website is made with the focus of design and not for any use case.
 
@@ -8,3 +8,7 @@ Execute the following commands after downloading the code files.
   npm i 
   npm run dev
 ```
+**TechStack used :**
+ReactJS<br>
+TailwindCSS<br>
+
